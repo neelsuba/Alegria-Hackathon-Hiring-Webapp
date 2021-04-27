@@ -1,5 +1,5 @@
 # Alegria-Hackathon-Hiring-Webapp
-An Hiring Manager web app made in PHP which uses random forest classifier in python to shortlist the cv's.
+A Hiring Manager web app made in PHP which uses random forest classifier in python to shortlist the cv's.
 
 ## Problem Statement
 Use up all the freely available/ open source resources to help in such a scenario to build a
